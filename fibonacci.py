@@ -1,3 +1,5 @@
+#Anand malani
+#11810791 M37
 n=int(input())
 l=[]
 a=0
