@@ -1,6 +1,8 @@
 #Anand Malani 
 #11810791 M37
-def arm(x):
+          #  ARMSTRONG NUMBER
+
+def arm(x):         #DEFINE FUNCTION 
    a=x
    sum=0
    while a>0:
@@ -15,4 +17,4 @@ def arm(x):
    while 1:
     x=int(input())
     arm(X)
-    
+ 
