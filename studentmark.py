@@ -1,6 +1,7 @@
 #anand malani
 #roll no 37
 #gr no 11181091
+         STUDENT MARKS
 
 n1=input("enter the name")        #enter the name
 e1=int(input())    #enter the marks of english
